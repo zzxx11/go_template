@@ -1,0 +1,9 @@
+{"level":"error","time":"2023-12-12 16:39:22","caller":"app/main.go:21","msg":"error msg","domain":"gotemplate[dev]","name":"test1"}
+{"level":"error","time":"2023-12-12 16:39:40","caller":"app/main.go:21","msg":"error msg","domain":"gotemplate[dev]","name":"test3"}
+{"level":"error","time":"2023-12-12 16:41:04","caller":"app/main.go:20","msg":"error msg","gotemplate":"dev","name":"test3"}
+{"level":"error","time":"2023-12-12 16:41:52","caller":"app/main.go:20","msg":"error msg","gotemplate":"dev","name":"test3"}
+{"level":"error","time":"2023-12-12 16:42:04","caller":"app/main.go:20","msg":"error msg","gotemplate":"dev","name":"test3"}
+{"level":"info","time":"2023-12-12 16:43:13","caller":"app/main.go:20","msg":"error msg","gotemplate":"dev","name":"test3"}
+{"level":"warn","time":"2023-12-12 16:51:43","caller":"app/main.go:20","msg":"error msg","gotemplate":"dev","name":"test3"}
+{"level":"warn","time":"2023-12-12 16:53:10","caller":"app/main.go:20","msg":"error msg","gotemplate":"dev","name":"test3"}
+{"level":"error","time":"2023-12-19 11:53:39","caller":"app/main.go:18","msg":"message","gotemplate":"dev"}

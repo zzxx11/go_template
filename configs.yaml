@@ -1,0 +1,12 @@
+projectname: gotemplate
+env: dev
+log:
+  writer: os.Stdout
+  level: DEBUG
+#  path : ./logs/
+gin:
+  listen_addr: 80
+grpc:
+  listen_addr: 9999
+  trace_enabled: true
+  metrics_enabled: true
